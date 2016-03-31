@@ -42,11 +42,10 @@ public class A1 {
 	}
 		
 	public static void main (String []args) {
-	//	System.out.println(lukasRec(5));
+		System.out.println("Lukaszahl: " +lukasRec(5));
 	//	System.out.println(fibonacciArr(5));
-		System.out.println(fibonacciRec(8));
+		System.out.println("Fibonaccizahl: " +fibonacciRec(8));
 	}
 
 }
 
-//git log --stat > git.txt(log)
