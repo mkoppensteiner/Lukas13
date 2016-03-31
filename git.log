@@ -1,0 +1,14 @@
+commit dc8355c287ed829de3575c41d4611a7e97ef91e6
+Author: mkoppensteiner <mkoppensteiner@student.tgm.ac.at>
+Date:   Thu Mar 31 10:35:04 2016 +0200
+
+    first commit
+
+ .classpath                           | 13 +++++++++
+ .gitignore                           |  1 +
+ .project                             | 17 ++++++++++++
+ .settings/org.eclipse.jdt.core.prefs | 11 ++++++++
+ src/A1.java                          | 52 ++++++++++++++++++++++++++++++++++++
+ src/BigThing.java                    |  6 +++++
+ src/mockito_test.java                | 21 +++++++++++++++
+ 7 files changed, 121 insertions(+)
